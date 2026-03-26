@@ -23,7 +23,7 @@
 # Contact Us:
 1. Location: Ilyanovsk.
 2. Telegram: @attach4
-3. [hh.ru](https://ulyanovsk.hh.ru/applicant/resumes?hhtmFrom=vacancy&hhtmFromLabel=header)
+3. [hh.ru]([https://ulyanovsk.hh.ru/applicant/resumes?hhtmFrom=vacancy&hhtmFromLabel=header](https://ulyanovsk.hh.ru/profile/me?hhtmFrom=ProfileActivator)
 
 
 
