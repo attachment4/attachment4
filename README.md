@@ -33,7 +33,6 @@ I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the 
 2. Telegram: @attach4
 3. [HH](https://ulyanovsk.hh.ru/profile/me?hhtmFrom=ProfileActivator)
 4. Email - karavashkinivan1995@gmail.com
->>>>>>> 491b4375e611082e5da558605b6172b102aa38a3
 
 
 
