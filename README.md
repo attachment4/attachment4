@@ -1,40 +1,11 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/70/05/b7/7005b7ce730c2eebeb97e179a8e99a93.jpg" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/736x/41/a1/88/41a1883f4713a0e37255042e2c87d70d.jpg" align="center" style="width: 100%" />
 </div>
   
 
-<<<<<<< HEAD
 ### <div align="center">Hi! I'm Attach ✌️
-I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the IT field, focusing on software quality assurance and test automation.</div>***  
+I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the IT field, focusing on software quality assurance and test automation.</div>
   
-=======
-
-# Hi! I'm Attach 👋
-
-#### I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the IT field, focusing on software quality assurance and test automation.
-
-# My stack and tools:
-
-1. Testing: Manual Testing (writing test cases, bug reports, checklists).
-2. Programming: Java Core (working with data types, loops, mathematical logic).
-3. Build and Control: Maven (dependency management), Git (branching, Pull Requests).
-4. Planning: A systematic approach to tasks and time management in Google Sheets.
-
-
-# Current Learning Projects:
-
-1. Bonus Miles Calculator — calculating bonus miles in Java using conditional statements.
-
-2. Annuity Payment Calculator — calculating annuity payments (practical work with the double data type).
-
-3. QA Artifacts — a repository with documentation examples and bug reports.
-
-# Contact Us:
-1. Location: Ilyanovsk.
-2. Telegram: @attach4
-3. [HH](https://ulyanovsk.hh.ru/profile/me?hhtmFrom=ProfileActivator)
-4. Email - karavashkinivan1995@gmail.com
->>>>>>> 491b4375e611082e5da558605b6172b102aa38a3
 
 
 
@@ -102,20 +73,6 @@ I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the 
 <br/>  
 
 
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
   
 
@@ -124,5 +81,4 @@ I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the 
 
 <br />
 
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
