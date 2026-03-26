@@ -7,7 +7,6 @@
 I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the IT field, focusing on software quality assurance and test automation.</div>
   
 
-=======
 
 
 # Hi! I'm Attach 👋
