@@ -89,16 +89,19 @@ I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the 
 <br/>  
 
 
-## Connect with me  
-<a href="https://github.com/https://github.com/attachment4" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+### Socials
 
-<a href="https://www.youtube.com/@https://www.youtube.com/@heyheyleosan" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Attachment4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@heyheyleosan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://t.me/attach4)  
+
+
+
+
+<div align="center"> 
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Attachment4)
+
+</div>
 <br/>  
 
 
