@@ -3,105 +3,68 @@
 </div>
   
 
-### <div align="center">Hi! I'm Attach ✌️
-I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the IT field, focusing on software quality assurance and test automation.</div>
-  
+# Привет, я Attach! 👋
+### Junior QA Engineer | Java & Automation Enthusiast 🚀
 
+Я развиваюсь в области обеспечения качества ПО, совмещая системный подход и техническую базу на Java. Базируюсь в **Ульяновске** и открыт к предложениям в локальном IT-кластере и на удаленку.
 
+---
 
-# Hi! I'm Attach 👋
+### 🛠 Stack & Tools
 
-#### I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the IT field, focusing on software quality assurance and test automation.
+**Testing & Automation:**
+![Manual Testing](https://img.shields.io/badge/Testing-Manual-31b43a?style=for-the-badge&logo=testrail&logoColor=white)
+![Maven](https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![JUnit](https://img.shields.io/badge/Testing-JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-# My stack and tools:
+**Programming Languages:**
+![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-1. Testing: Manual Testing (writing test cases, bug reports, checklists).
-2. Programming: Java Core (working with data types, loops, mathematical logic).
-3. Build and Control: Maven (dependency management), Git (branching, Pull Requests).
-4. Planning: A systematic approach to tasks and time management in Google Sheets.
+**Version Control & Collaboration:**
+![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+**Management & Planning:**
+![Google Sheets](https://img.shields.io/badge/Planning-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-# Current Learning Projects:
+---
 
-1. Bonus Miles Calculator — calculating bonus miles in Java using conditional statements.
+### 🚀 Projects
 
-2. Annuity Payment Calculator — calculating annuity payments (practical work with the double data type).
+#### 💰 [Bonus Miles Calculator](https://github.com/attachment4/CreditPaymentService)
+Java-приложение для расчета бонусных миль авиакомпании.
+* **Технологии:** Java Core, условные операторы.
+* **Что сделано:** Реализована логика начисления бонусов, проект структурирован с помощью **Maven**.
 
-3. QA Artifacts — a repository with documentation examples and bug reports.
+#### 📉 [Annuity Payment Calculator](https://github.com/attachment4/CreditPaymentService)
+Кредитный калькулятор для расчета равных ежемесячных платежей.
+* **Технологии:** Java, работа с типом `double`.
+* **Что сделано:** Написан алгоритм расчета сложных финансовых формул с высокой точностью.
 
-# Contact Us:
-1. Location: Ulyanovsk.
-2. Telegram: @attach4
-3. [HH](https://ulyanovsk.hh.ru/profile/me?hhtmFrom=ProfileActivator)
-4. Email - karavashkinivan1995@gmail.com
+#### 📝 [QA Artifacts Repository]
+База практических работ по ручному тестированию.
+* **Состав:** Тест-кейсы, чек-листы и структурированные баг-репорты.
 
+---
 
+### 📈 Что я изучаю сейчас (Current focus):
+- [ ] 🤖 **Автоматизация на Java:** Написание автотестов с использованием Selenium и JUnit 5.
+- [ ] 🐙 **GitHub Mastery:** Продвинутая работа с репозиториями, Forking workflow и CI/CD.
+- [ ] 📊 **SQL:** Работа с реляционными базами данных, написание запросов для тестирования бэкенда.
 
-### 🛠️ My stack and tools:  
-- ⛏️ Testing: Manual Testing (writing test cases, bug reports, checklists).  
-  
+---
 
-- ⚡ Programming: Java Core (working with data types, loops, mathematical logic).  
-  
+### 📫 Contacts
 
-<br/>  
+Всегда рад профессиональному общению:
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-### Socials
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Attachment4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@heyheyleosan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/attach4)    
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/attach4)
 
 
 
 
-<div align="center"> 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Attachment4)
 
-</div>
-<br/>  
 
 
