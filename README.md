@@ -30,7 +30,7 @@ I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the 
 3. QA Artifacts — a repository with documentation examples and bug reports.
 
 # Contact Us:
-1. Location: Ilyanovsk.
+1. Location: Ulyanovsk.
 2. Telegram: @attach4
 3. [HH](https://ulyanovsk.hh.ru/profile/me?hhtmFrom=ProfileActivator)
 4. Email - karavashkinivan1995@gmail.com
