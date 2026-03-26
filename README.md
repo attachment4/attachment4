@@ -24,7 +24,7 @@
 1. Location: Ilyanovsk.
 2. Telegram: @attach4
 3. [HH](https://ulyanovsk.hh.ru/profile/me?hhtmFrom=ProfileActivator)
-4. email - karavashkinivan1995@gmail.com
+4. Email - karavashkinivan1995@gmail.com
 
 
 
