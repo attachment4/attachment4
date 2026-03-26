@@ -3,11 +3,10 @@
 </div>
   
 
-<<<<<<< HEAD
 ### <div align="center">Hi! I'm Attach ✌️
 I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the IT field, focusing on software quality assurance and test automation.</div>***  
   
-=======
+
 
 # Hi! I'm Attach 👋
 
@@ -97,28 +96,6 @@ I'm a beginner QA Engineer from Ulyanovsk. I'm currently transitioning into the 
 <a href="https://www.youtube.com/@https://www.youtube.com/@heyheyleosan" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
 <br/>  
 
 
