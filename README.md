@@ -3,63 +3,94 @@
 </div>
   
 
-# Привет, я Attach! 👋
-### Junior QA Engineer | Java & Automation Enthusiast 🚀
+# Привет, я Иван 👋
 
-Я развиваюсь в области обеспечения качества ПО, совмещая системный подход и техническую базу на Java. Базируюсь в **Ульяновске** и открыт к предложениям в локальном IT-кластере и на удаленку.
-
----
-
-### 🛠 Stack & Tools
-
-**Testing & Automation:**
-![Manual Testing](https://img.shields.io/badge/Testing-Manual-31b43a?style=for-the-badge&logo=testrail&logoColor=white)
-![Maven](https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![JUnit](https://img.shields.io/badge/Testing-JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-**Programming Languages:**
-![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Version Control & Collaboration:**
-![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Management & Planning:**
-![Google Sheets](https://img.shields.io/badge/Planning-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+Начинающий QA Automation Engineer из Ульяновска.  
+Учусь на курсе Нетологии по направлению QA-автоматизация, активно практикуюсь и строю портфолио.
 
 ---
 
-### 🚀 Projects
+## 🛠 Технический стек
 
-#### 💰 [Bonus Miles Calculator](https://github.com/attachment4/CreditPaymentService)
-Java-приложение для расчета бонусных миль авиакомпании.
-* **Технологии:** Java Core, условные операторы.
-* **Что сделано:** Реализована логика начисления бонусов, проект структурирован с помощью **Maven**.
+**Автоматизация**
+- Java 21 — основной язык
+- Selenium WebDriver 4 — UI автоматизация
+- REST Assured 5 — API тестирование
+- JUnit 5 — фреймворк для тестов
+- Allure Report — отчётность
+- Maven — сборка проекта
+- GitHub Actions — CI/CD
 
-#### 📉 [Annuity Payment Calculator](https://github.com/attachment4/CreditPaymentService)
-Кредитный калькулятор для расчета равных ежемесячных платежей.
-* **Технологии:** Java, работа с типом `double`.
-* **Что сделано:** Написан алгоритм расчета сложных финансовых формул с высокой точностью.
+**Ручное тестирование**
+- Тест-дизайн (эквивалентное разбиение, граничные значения, попарное тестирование)
+- Составление тест-кейсов и чек-листов
+- Баг-репорты
+- Тестовая документация
 
-#### 📝 [QA Artifacts Repository]
-База практических работ по ручному тестированию.
-* **Состав:** Тест-кейсы, чек-листы и структурированные баг-репорты.
+**Инструменты**
+- Git / GitHub
+- Chrome DevTools
+- Postman
+- IntelliJ IDEA
+
+**Базовые знания**
+- Клиент-серверная архитектура
+- HTTP / REST API
+- Жизненный цикл разработки ПО (SDLC)
+- Гибкие методологии (Agile, Scrum)
 
 ---
 
-### 📈 Что я изучаю сейчас (Current focus):
-- [ ] 🤖 **Автоматизация на Java:** Написание автотестов с использованием Selenium и JUnit 5.
-- [ ] 🐙 **GitHub Mastery:** Продвинутая работа с репозиториями, Forking workflow и CI/CD.
-- [ ] 📊 **SQL:** Работа с реляционными базами данных, написание запросов для тестирования бэкенда.
+## 📂 Проекты
+
+### [qa-automation-portfolio](https://github.com/attachment4/qa-automation-portfolio)
+Фреймворк автоматизации с UI и API тестами.
+
+- **UI тесты** — Selenium + Page Object Model на demoblaze.com
+- **API тесты** — REST Assured на reqres.in (GET, POST, негативные сценарии)
+- **CI/CD** — GitHub Actions, автозапуск при каждом push
+- **Отчёты** — Allure Report с описанием шагов
+
+**Стек:** Java · Selenium · REST Assured · JUnit 5 · Allure · Maven · GitHub Actions
 
 ---
 
-### 📫 Contacts
+### [AviaSouls](https://github.com/attachment4/TicketAirPlaneJava)
+Покрытие тестами менеджера авиабилетов.
 
-Всегда рад профессиональному общению:
+- Comparable / Comparator — сортировка по цене и времени в полёте
+- JUnit 5 тесты: позитивные, негативные и граничные сценарии
+- Page Object паттерн в структуре тестов
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/attach4)
+**Стек:** Java · JUnit 5 · Maven
+
+---
+
+## 📚 Образование
+
+**Нетология** — QA Automation Engineer *(в процессе, 2024–2025)*  
+Пройдено: введение в тестирование, тест-дизайн, Git, Java, Maven, JUnit 5, ООП, CI/CD
+
+**СПО** — Разработчик веб и мультимедийных приложений
+
+---
+
+## 💼 Опыт
+
+**Системный администратор / Информационная безопасность** — 1 год  
+Администрирование систем, работа с сетевой инфраструктурой, обеспечение информационной безопасности.
+
+---
+
+## 📫 Контакты
+
+- Telegram: @attach4
+- Email: karavashkinivan1995@gmail.com
+- Город: Ульяновск | Готов к удалённой работе
+
+---
+
+*Портфолио пополняется по мере прохождения курса* 🚀
 
 
 
